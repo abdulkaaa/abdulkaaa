@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm Abdul. I’m currently learning Python to prepare for my dream job as a data scientist.
+
+### 📫 How to reach me: abdulkarim.bdlk@gmail.com
+
 <!--
 **abdulkaaa/abdulkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
